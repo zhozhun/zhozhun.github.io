@@ -1,0 +1,26 @@
+body{
+position: relative;
+background-image: url('subtle-prism.png');
+}
+
+.texto{
+    position: absolute;
+    transform: rotate(22.5deg);
+    background-image: url('miraQueTeComo.png');
+    height: 1200px;
+    width: 1200px;
+    top: -100px;
+    left: 20px;
+    
+}
+
+.gif{
+    border: 1px solid black;
+    position: absolute;
+    transform: rotate(-22.5deg);
+    height: 300px;
+    width: 450px;
+    top: 40px;
+    left: 40px;
+    background-image: url('miraQueTeComo.gif');
+}
