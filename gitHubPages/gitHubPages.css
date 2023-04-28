@@ -1,14 +1,16 @@
 body{
 position: relative;
 background-image: url('subtle-prism.png');
+background-size: cover;
+background-repeat: no-repeat;
 }
 
 .texto{
     position: absolute;
     transform: rotate(22.5deg);
     background-image: url('miraQueTeComo.png');
-    height: 1200px;
-    width: 1200px;
+    height: 1500px;
+    width: 2450px;
     top: -100px;
     left: 20px;
     
